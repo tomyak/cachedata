@@ -1,0 +1,13 @@
+{
+  "name": "cachedata",
+  "version": "1.0.0",
+  "description": "Simple cache for node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "devDependencies": { "test": ">=0.0.5" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
